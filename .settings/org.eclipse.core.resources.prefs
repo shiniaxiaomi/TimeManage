@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/gui/AddTimeFrm.java=UTF-8
+encoding//src/gui/EditFrm.java=UTF-8
+encoding//src/gui/EditTaskKindFrm.java=UTF-8
+encoding//src/gui/MainFrm.java=UTF-8
+encoding//src/gui/MyPanel.java=UTF-8
+encoding//src/model/Task.java=UTF-8
+encoding//src/model/TaskKind.java=UTF-8
+encoding//src/model/Time.java=UTF-8
+encoding//src/mysql/DataDao.java=UTF-8
+encoding//src/mysql/SearchDao.java=UTF-8
+encoding//src/mysql/TableDao.java=UTF-8
+encoding//src/mysql/TaskDao.java=UTF-8
+encoding//src/util/ChangeUtil.java=UTF-8
+encoding//src/util/DbUtil.java=UTF-8
+encoding//src/util/StringUtil.java=UTF-8
